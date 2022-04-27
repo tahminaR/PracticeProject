@@ -1,4 +1,4 @@
-package controlflow;
+package learnMethod;
 
 public class ReturnTypeMethodWithParameter {
 //Return Type Method With Parameter. also called dynamic return type method.

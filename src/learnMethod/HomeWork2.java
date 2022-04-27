@@ -1,4 +1,4 @@
-package controlflow;
+package learnMethod;
 
 import java.util.Scanner;
 

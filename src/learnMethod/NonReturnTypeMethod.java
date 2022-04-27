@@ -1,4 +1,4 @@
-package controlflow;
+package learnMethod;
 
 public class NonReturnTypeMethod {
 //NON-Return Type Method With Parameter and Without Parameter

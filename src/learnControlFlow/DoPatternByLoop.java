@@ -1,4 +1,4 @@
-package controlflow;
+package learnControlFlow;
 
 public class DoPatternByLoop {
 

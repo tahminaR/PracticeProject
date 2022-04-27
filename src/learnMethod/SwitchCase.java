@@ -1,8 +1,6 @@
-package controlflow;
+package learnMethod;
 
-import java.util.Scanner;
-
-                                   //Note:switch case method with scanner
+//Note:switch case method with scanner
 public class SwitchCase {
     public static void main(String[] args) {
 //      Scanner input = new Scanner(System.in);

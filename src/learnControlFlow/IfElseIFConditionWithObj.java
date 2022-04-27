@@ -1,8 +1,4 @@
-package controlflow;
-
-import javax.imageio.stream.ImageInputStreamImpl;
-import javax.sound.midi.Soundbank;
-import java.sql.SQLOutput;
+package learnControlFlow;
 
 public class IfElseIFConditionWithObj {
 ////this if else if condition, outside of main method calling by creating object

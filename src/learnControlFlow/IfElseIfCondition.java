@@ -1,6 +1,4 @@
-package controlflow;
-
-import java.sql.SQLOutput;
+package learnControlFlow;
 
 public class IfElseIfCondition {
     //if the condition is true then if block of code will execute

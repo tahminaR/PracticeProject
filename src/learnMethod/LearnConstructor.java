@@ -1,4 +1,4 @@
-package controlflow;
+package learnMethod;
 
 public class LearnConstructor {
 

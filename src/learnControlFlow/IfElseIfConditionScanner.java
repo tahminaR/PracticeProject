@@ -1,4 +1,4 @@
-package controlflow;
+package learnControlFlow;
     import java.util.Scanner;
     public class IfElseIfConditionScanner {
 
@@ -20,7 +20,7 @@ package controlflow;
                 System.out.println("Your age is more than 50");
 
             } else {
-                System.out.println("Its your Retirement Time");
+                System.out.println("It's your Retirement Time");
             }
 
         }
