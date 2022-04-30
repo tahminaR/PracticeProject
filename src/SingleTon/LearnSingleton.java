@@ -5,6 +5,21 @@ public class LearnSingleton {
  //using private constructor we can ensure that no more than one object can be created at a time
     // singleton concept with work default constructor
 
+    // first we create private object, then we create public return type method to get the object.
+//this mechanism will help us to create obj in diff class, this concept is call singleTon.
+
+    //How to create instance of a class?
+    //1) Create a private static object.
+    // Syntax:  private static className objectName=new constructorOfClass();
+    //2) create a public return type method
+    //Syntax: public static ClassName MethodName(){   return ObjectVariable;}
+
+//how to create shortcut constructor:
+    //right.click-> Generate-> constructor->
+    // (you can select single, or you can select multiple) -> ctrl + select all-> ok-> created
+    //to create default constructor, do not select anything -> click OK
+
+
     String pizzaName;
     double pizzaPrice;
 
@@ -34,18 +49,5 @@ public class LearnSingleton {
     //Return Type: All type of data,void, class type and Object
     // here Pizza is our class we want to return, not data type
 
-// first we create private object, then we create public return type method to get the object.
-//this mechanism will help us to create obj in diff class, this concept is call singleTon.
-
-    //How to create instance of a class?
-    //1) Create a private static object.
-    // Syntax:  private static className objectName=new constructorOfClass();
-     //2) create a public return type method
-    //Syntax: public static ClassName MethodName(){   return ObjectVariable;}
-
-//how to create shortcut constructor:
-    //right.click-> Generate-> constructor->
-    // (you can select single, or you can select multiple) -> ctrl + select all-> ok-> created
-    //to create default constructor, do not select anything -> click OK
 
 }
