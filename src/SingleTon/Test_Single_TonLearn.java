@@ -8,6 +8,11 @@ public class Test_Single_TonLearn {
     //Create object under main method
     // call by objName.variable
     public static void main(String[] args) {
+
+        LearnSingleton pizzaObj=LearnSingleton.getInstance();
+
+
+
 //====================================================================================================================
 //  Single_TonLearn xyzObj =new Single_TonLearn(20,10);
 //        System.out.println(xyzObj.num1+ "\n"+xyzObj.num2);

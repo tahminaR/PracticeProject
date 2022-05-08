@@ -1,4 +1,4 @@
-package learnMethod;
+package learnControlFlow;
 
 public class NestedIfElse {
     public static void main(String[] args) {

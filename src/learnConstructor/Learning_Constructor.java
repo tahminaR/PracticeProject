@@ -1,4 +1,4 @@
-package learnMethod;
+package learnConstructor;
 
 public class Learning_Constructor {
     int age;

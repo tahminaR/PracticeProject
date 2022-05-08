@@ -10,7 +10,7 @@ public class LearnMethod {
     //Access modifier returnType methodName
     // what is the bani
     void HelloBlock() { //block
-        System.out.println("HIJIBIJI,dkmfkahrgfkjash,kjfekHEFK HIJIBIJI HIJIBIJI");
+        System.out.println("HIJIBIJIH IJIBIJI HIJIBIJI HIJIBIJI HIJIBIJI");
 
 
     }

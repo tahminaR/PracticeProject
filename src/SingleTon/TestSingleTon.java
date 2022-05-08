@@ -20,7 +20,7 @@ public class TestSingleTon {
 
        // SingleClassShort newObjectName=SingleClassShort.methodName();
 
-        //SingleClassShort ccbbaa=SingleClassShort.aabbcc();
+        SingleClassShort ccbbaa=SingleClassShort.aabbcc();
 
 
 

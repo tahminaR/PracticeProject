@@ -13,20 +13,20 @@ public class LearnEnum {
 
 
     }
-public enum inSideOfClass{
-        GALAXY, iPhone,NOKIA,LG
+
+    public enum inSideOfClass {
+        GALAXY, iPhone, NOKIA, LG
+
+    }
+
 
 }
 
-
-
-
-}
-// Enum declaration can be done outside a class or inside a class but not inside a method
-// this enum is outsider of class.
-enum outSideOfClass{
+ // Enum declaration can be done outside a class or inside a class but not inside a method
+ // this enum is outsider of class.
+       enum outSideOfClass {
     RED, GREEN, BLUE, WHITE
-}
+ }
 
 
 

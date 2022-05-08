@@ -1,4 +1,4 @@
-package learnMethod;
+package Scanner;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package learnMethod;
+package exceptionHandling;
 
 public class ExceptionHandling {
     public static void main(String[] args) {

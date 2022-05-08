@@ -1,4 +1,4 @@
-package learnMethod;
+package learnControlFlow;
 
 import java.util.Scanner;
 

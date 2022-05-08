@@ -1,4 +1,4 @@
-package learnMethod;
+package learnConstructor;
 
 public class Learn_Constructor {
     //syntax of constructor:  accessModifier className/constructorOfClass(){ }
